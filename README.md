@@ -12,4 +12,3 @@ lower_red = np.array([90, 50, 70])
 upper_red = np.array([130, 255, 255])
 ```
 
-+ Video demo: https://www.youtube.com/watch?v=r18v6NFHHJw
